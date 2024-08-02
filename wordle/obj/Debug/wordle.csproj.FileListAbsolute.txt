@@ -1,0 +1,13 @@
+D:\proga\epam\word1e\wordle\bin\Debug\wordle.exe.config
+D:\proga\epam\word1e\wordle\bin\Debug\wordle.exe
+D:\proga\epam\word1e\wordle\bin\Debug\wordle.pdb
+D:\proga\epam\word1e\wordle\obj\Debug\wordle.csproj.AssemblyReference.cache
+D:\proga\epam\word1e\wordle\obj\Debug\wordle.Form1.resources
+D:\proga\epam\word1e\wordle\obj\Debug\wordle.Properties.Resources.resources
+D:\proga\epam\word1e\wordle\obj\Debug\wordle.csproj.GenerateResource.cache
+D:\proga\epam\word1e\wordle\obj\Debug\wordle.csproj.CoreCompileInputs.cache
+D:\proga\epam\word1e\wordle\obj\Debug\wordle.exe
+D:\proga\epam\word1e\wordle\obj\Debug\wordle.pdb
+D:\proga\epam\word1e\wordle\obj\Debug\wordle.RulesWindow.resources
+D:\proga\epam\word1e\wordle\obj\Debug\wordle.ErrorWindow.resources
+D:\proga\epam\word1e\wordle\obj\Debug\wordle.EndWindow.resources
